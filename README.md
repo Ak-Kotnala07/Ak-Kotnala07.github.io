@@ -1,5 +1,3 @@
-# Ak-Kotnala07.github.io
-My Portfolio
 # Akshat Kotnala - Data Science Portfolio
 
 Hi, I'm Akshat, a Data Science graduate student passionate about building machine learning models to solve real-world problems. Below are some of the projects I've worked on.
